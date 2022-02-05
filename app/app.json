@@ -1,0 +1,29 @@
+{
+    "id":  "00000000-0000-0000-0000-000000000001",
+    "name":  "sauravtemplate",
+    "publisher":  "Saurav",
+    "brief":  "Per Tenant Extension",
+    "description":  "Per Tenant Extension",
+    "version":  "1.0.0.0",
+    "privacyStatement":  "https://sauravdhyani.com/",
+    "EULA":  "https://sauravdhyani.com/",
+    "help":  "https://sauravdhyani.com/",
+    "url":  "https://sauravdhyani.com/",
+    "logo":  "logo/saurav.ico",
+    "dependencies":  [],
+    "screenshots":  [],
+    "application":  "19.0.0.0",
+    "platform":  "19.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  50000,
+                         "to":  99999
+                     }
+                 ],
+    "runtime":  "8.0",
+    "resourceExposurePolicy":  {
+        "allowDebugging":  true,
+        "allowDownloadingSource":  true,
+        "includeSourceInSymbolFile":  true
+    }
+}
