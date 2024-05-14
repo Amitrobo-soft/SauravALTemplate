@@ -2,7 +2,7 @@ codeunit 50130 HelloBase
 {
     trigger OnRun()
     begin
-        //amit
+        //amitt
     end;
 
     procedure GetText() returnvalue: Text;
